@@ -6,22 +6,21 @@
 
 <br/>
 
-
 <br/>
 
 </div>
 
-## 🚀 Sobre Mí
+## About Me
 
-- 💻 **Junior Developer** desde España 🌍
-- 📚 Aprendiendo **Desarrollo Web Full Stack**
-- 🔧 Trabajando con **JavaScript, TypeScript, Java y Python**
-- ⚛️ Experiencia en **React y Angular**
-- 💡 Apasionado por aprender y crear soluciones web
+- **Junior Developer** from Spain
+- Learning **Full Stack Web Development**
+- Working with **JavaScript, TypeScript, Java and Python**
+- Experience in **React and Angular**
+- Passionate about learning and creating web solutions
 
 ---
 
-## 🛠️ Tecnologías
+## Technologies
 
 <div align="center">
 
@@ -56,13 +55,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=💻+JavaScript+%7C+TypeScript+%7C+Java;⚛️+React+%7C+Angular;🚀+Aprendiendo+cada+día" alt="Tech Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=JavaScript+%7C+TypeScript+%7C+Java;React+%7C+Angular;Learning+every+day" alt="Tech Animation" />
 
 </div>
 
 ---
 
-## 🤝 Conecta Conmigo
+## Connect With Me
 
 <div align="center">
 
@@ -78,8 +77,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-### 💜 _"Cada línea de código es un paso adelante"_
+### _"Every line of code is a step forward"_
 
-**⭐️ From [juanklv2003](https://github.com/juanklv2003)**
+**From [juanklv2003](https://github.com/juanklv2003)**
 
 </div>
