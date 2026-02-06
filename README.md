@@ -62,19 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=juanklv2003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=a177ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=juanklv2003&theme=radical&hide_border=true&background=0d1117&ring=a177ff&fire=58a6ff&currStreakLabel=c9d1d9" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanklv2003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a177ff&text_color=c9d1d9&langs_count=6)
-
-</div>
-
----
-
 ## 🤝 Conecta Conmigo
 
 <div align="center">
