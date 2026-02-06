@@ -6,8 +6,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/juanklv2003?style=for-the-badge&color=236ad3&labelColor=1c1917)](https://github.com/juanklv2003?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=juanklv2003&label=Visitas&color=0e75b6&style=for-the-badge&labelColor=1c1917)
 
 <br/>
 
